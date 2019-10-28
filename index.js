@@ -1,4 +1,4 @@
 // Add your functions here
-function map(array,){
+function map(array,function(a){}){
   
 }
